@@ -10,12 +10,11 @@ date: 2016-05-25
 
 
 {% capture images %}
-    https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
+    https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg itsme
 {% endcapture %}
 tes
 {% include gallery images=images caption="It's Me" cols=2 %}
 
-<p style="text-align:justify;">
 * Nama          :
 * Responsive
 * Disqus integration
@@ -26,7 +25,7 @@ tes
 * Optional background image
 * Simple navigation menu
 * MathJax support
-</p>
+
 ## Preview
 
 {% capture images %}
