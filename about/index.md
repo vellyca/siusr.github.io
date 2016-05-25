@@ -7,9 +7,11 @@ date: 2016-05-25
 <center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
 
 ## Bio
-{% capture images %}
-<p style="text-align:justify;"><img src="/assets/img/IMG_20151024_190349.jpg" width="25%" style="float:left;" />
+
+<p style="text-align:justify;">
+{% capture images %}<img src="/assets/img/IMG_20151024_190349.jpg" width="25%" style="float:left;" />
 {% endcapture %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 * Nama          :
 * Responsive
 * Disqus integration
