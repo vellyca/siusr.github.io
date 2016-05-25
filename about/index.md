@@ -7,7 +7,9 @@ date: 2016-05-25
 <center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
 
 ## Bio
-<img src="
+{% capture images %}
+<p style="text-align:justify;"><img src="/assets/img/IMG_20151024_190349.jpg" width="25%" style="float:left;" />
+{% endcapture %}
 * Nama          :
 * Responsive
 * Disqus integration
@@ -18,7 +20,7 @@ date: 2016-05-25
 * Optional background image
 * Simple navigation menu
 * MathJax support
-
+</p>
 ## Preview
 
 {% capture images %}
