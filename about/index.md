@@ -16,11 +16,13 @@ https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20
 * Nama          : Andre Oktora
 * TTL           : Taluk, 09 OKtober 1994 <br>
 * Kelas         : SI'D <br>
-* Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id/ target="blank")<br>
-* Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id/ target="blank")<br>
-* Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/ target="blank")<br>
+* Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id/)<br>
+* Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id/)<br>
+* Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>
 * Motto         : Nothink impossible in the word
 
 ## who am i?
     Perkenalkan, saya <b>Andre</b> yang biasa dipanggil kawan-kawan terdekat dengan <b>Tora</b> atau <b>siMbatak</b>. Saya, bisa dikatakan seorang manusia malam, kenapa? mungkin karna sering menghabiskan waktu dimalam hari dan tidur disiang hari(kalau ada kesempatan :D). Dan saya, lupa dunia jika sudah bermesraan  dengan laptop apalagi kalau sudah dibuat penasaran dengan sebaris cerita dari sebuah coding. Sepertinya sudah cukup :D
+    
+<center><h3>Sekian -Terima Kasih- </h3></center>
 
