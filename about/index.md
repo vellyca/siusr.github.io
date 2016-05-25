@@ -10,7 +10,7 @@ date: 2016-05-25
 
 <center>
 {% capture images %}
-  <img src="https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg" size="25%">
+  https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg" width="25%"
 {% endcapture %}
 </center>
 
