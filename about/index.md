@@ -6,22 +6,19 @@ date: 2016-05-25
 ---
 <center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
 
-## Bio
+## It's Me
 {% capture images %}
 https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="it's me" cols=2 %}
 
-* Nama          :
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+##bio
+* Nama          : Andre Oktora
+* tetala        : Taluk, 09 OKtober 1994
+* Kelas         : SI'D
+* Jurusan       : <a href="sif.uin-suska.ac.id">Sistem Informasi</a>
+* Fakultas      : <a href="http://fst.uin-suska.ac.id/">Sains dan Teknologi</a>
+* Universitas   : <a href="http://uin-suska.ac.id/">UIN Suska Riau</a>
 
 ## Preview
 
