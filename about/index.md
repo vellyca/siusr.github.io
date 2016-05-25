@@ -7,12 +7,10 @@ date: 2016-05-25
 <center>Pencari kepuasan akibat dari setitik rasa ingin tahu</center>
 
 ## Bio
-
-
 {% capture images %}
-  https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg" 
+https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
 {% endcapture %}
-{% include gallery images=images caption="It's me" cols=2 %}
+{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
 * Nama          :
 * Responsive
