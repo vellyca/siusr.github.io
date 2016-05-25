@@ -14,11 +14,11 @@ https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20
 
 ## Bio
 * Nama          : Andre Oktora
-* TTL        : Taluk, 09 OKtober 1994 <br>
+* TTL           : Taluk, 09 OKtober 1994 <br>
 * Kelas         : SI'D <br>
-* Jurusan       : [Sistem Informasi](http://sif.uin-suska.ac.id)<br>
-* Fakultas      : [Sains dan Teknologi](http://fst.uin-suska.ac.id)<br>
-* Universitas   : [UIN Suska Riau](http://uin-suska.ac.id)
+* Jurusan       : <a href="sif.uin-suska.ac.id>Sistem Informasi</a><br>
+* Fakultas      : <a href="sif.uin-suska.ac.id>Sistem Informasi</a><br>
+* Universitas   : <a href="sif.uin-suska.ac.id>Sistem Informasi</a><br>
 
 ## Preview
 
