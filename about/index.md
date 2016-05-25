@@ -8,11 +8,11 @@ date: 2016-05-25
 
 ## Bio
 
-
-{% capture images %}
-    https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
+<center>
+{% capture images size="25%" %}
+  https://raw.githubusercontent.com/tora9/tora9.github.io/master/assets/img/IMG_20151024_190349.jpg
 {% endcapture %}
-
+</center>
 
 * Nama          :
 * Responsive
