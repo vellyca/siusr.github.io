@@ -7,9 +7,9 @@
 {
     position:relative;
     width:720px;
-    margin:0 auto; /*center-aligned*/
+    margin:300px; auto; /*center-aligned*/
     padding:20px;
-    background:#191919;
+    background:#fff;
     border-radius:6px;
 } 
 
