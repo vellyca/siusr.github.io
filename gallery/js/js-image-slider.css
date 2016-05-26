@@ -8,7 +8,7 @@
     position:relative;
     width:720px;
     margin:0 auto; /*center-aligned*/
-    padding-top: 15px;
+    padding-top: 0;
     background:#fff;
     border-radius:6px;
 } 
