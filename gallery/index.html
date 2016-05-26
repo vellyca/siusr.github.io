@@ -1,19 +1,25 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"><!--<![endif]-->
 <head>
-    <title>Gallery</title>
+    {% include head.html %}
     <link href="js/js-image-slider.css" rel="stylesheet" type="text/css" />
     <script src="js/js-image-slider.js" type="text/javascript"></script>
     <link href="generic.css" rel="stylesheet" type="text/css" />
-    <style>
-        body {background-color:#fff;color:#666;line-height:1.4;}
-        .div1 a.current {color:#ccc;}
-        .div1 a, .div2 a {color:#34739c;}
-        .div2 p {padding:20px 0;}
-    </style>
 </head>
 <body>
-    <div id="sliderFrame">
+    {% include nav.html %}
+    <!-- Header -->
+    <header class="header flex" role="banner">
+        <div class="container animated fadeIn">
+            <div class="row">
+                    
+                 <div id="sliderFrame">
         <div id="slider">
             <a class="lazyImage" href="images/1.jpg" title="Pure Javascript. No jQuery. No flash.">Plain Javascript Slider</a>
             <a class="lazyImage" href="images/2.jpg" title="#htmlcaption5">Lazy Loading Image</a>
@@ -41,12 +47,11 @@
             <div class="thumb"><img src="images/thumb2.jpg" /></div>
             <div class="thumb"><img src="images/thumb3.jpg" /></div>
         </div>
-    </div>
-
-    <div class="div2">
-
-        
-    </div>
-
+    </div>    
+                    
+            </div>
+        </div>
+    </header>
+    {% include scripts.html %}
 </body>
 </html>
