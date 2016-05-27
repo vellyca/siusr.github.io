@@ -7,7 +7,7 @@ date: 2016-05-25
 
 
 {% capture images %}
-<center> https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/IMG20160509124336.jpg </center>
+https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/IMG20160509124336.jpg 
 {% endcapture %}
 {% include gallery images=images caption="" cols=2 %}
 
