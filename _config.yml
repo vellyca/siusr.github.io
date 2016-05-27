@@ -5,7 +5,7 @@ description:        "Instagram @vellycaputri"
 reading_time:       true
 words_per_minute:   200
 logo:               'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/Golden_Crown_with_Hearts_PNG_Clipart_Image.png'
-background:         'http://orig06.deviantart.net/a380/f/2011/167/4/8/almacon_2012_background_by_sakurirainne-d3j3s4i.png'
+background:         'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/Sword-art-online-800x420.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://vellyca.github.io
