@@ -4,9 +4,7 @@ title: About Me
 tags: [about]
 date: 2016-05-25
 ---
-<center>Welcome To MY Bio</center>
 
-## It's Me
 
 {% capture images %}
 https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/IMG20160509124336.jpg
@@ -23,8 +21,8 @@ https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/IM
 * Universitas   : [UIN Suska Riau](http://uin-suska.ac.id/)<br>
 * Motto         : Kalau ingin balas dendam, balaslah dengan segudang prestasi yang kamu miliki
 
-## who am i?
-Perkenalkan, saya **Andre Oktora** yang biasa dipanggil kawan-kawan terdekat dengan **Tora** atau **siMbatak**, Seorang mahasiswa [uin Suska Riau](htpp://uin-suska.ac.id/) jurusan [Sistem Informasi](http://sif.uin-suska.ac.id) fakultas [Sains dan teknologi](http://fst.uin-suska.ac.id/). Saya, bisa juga dikatakan seorang manusia malam, kenapa? mungkin karna sering menghabiskan waktu dimalam hari dan tidur disiang hari(kalau ada kesempatan :D). Dan saya, lupa dunia jika sudah bermesraan  dengan laptop apalagi kalau sudah dibuat penasaran dengan sebaris cerita dari sebuah script coding. Sepertinya sudah cukup untuk bionya :D
+## 
+Seorang mahasiswi [UIN Sultan Syarif Kasim Riau](http://uin-suska.ac.id/) [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id/) [Fakultas Sains dan Teknologi](http://fst.uin-suska.ac.id/) Tahun Angkatan 2014 Kelas D. Suka dengan tari Melayu dan Dance Modern, padahal memiliki 95% darah Jawa, 4% Melayu dan 1% Tiongkok.Nah loh.. lebih kental ke Melayunya deh hehehe
     
-<center><h3> -Terima Kasih- </h3></center>
+
 
