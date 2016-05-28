@@ -24,5 +24,8 @@ https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/IM
 ## 
 Seorang mahasiswi [UIN Sultan Syarif Kasim Riau](http://uin-suska.ac.id/) [Jurusan Sistem Informasi](http://sif.uin-suska.ac.id/) [Fakultas Sains dan Teknologi](http://fst.uin-suska.ac.id/) Tahun Angkatan 2014 Kelas D. Suka dengan tari Melayu dan Dance Modern, padahal memiliki 95% darah Jawa, 4% Melayu dan 1% Tiongkok.Nah loh.. lebih kental ke Melayunya deh hehehe
     
-
+<audio controls>
+  <source src="TUGAS.ogg" type="audio/ogg">
+Your browser does not support the audio element.
+</audio>
 
