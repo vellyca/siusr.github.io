@@ -1,11 +1,11 @@
 # Site
-title:              Vellyca Werdining Putri
-bio:                'Salah Satu Mahasiswi Program Studi Sistem Informasi, Fakultas Sains dan Teknologi, Universitas Islam Negeri Sultan Syarif Kasim, Riau'
-description:        "Instagram @vellycaputri"
+title:              UIN SUSKA RIAU
+bio:                'Universitas Islam Negeri Sultan Syarif Kasim Riau (disebut juga UIN Suska Riau) adalah Universitas Islam Negeri yang berada di Pekanbaru. Penamaannya dengan Sultan Syarif Kasim yaitu nama sultan ke-12 atau sultan terakhir Kesultanan Siak Sri Inderapura.'
+description:        "UIN SUSKA RIAU"
 reading_time:       true
 words_per_minute:   200
-logo:               'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/Golden_Crown_with_Hearts_PNG_Clipart_Image.png'
-background:         'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/Sword-art-online-800x420.jpg'
+logo:               'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/download.png'
+background:         'https://raw.githubusercontent.com/vellyca/vellyca.github.io/master/assets/img/uin.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                http://vellyca.github.io
@@ -38,14 +38,14 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 #email:
-twitter:            vellycap
-facebook:           vellyca48family
-bbm:                59960B1E
+twitter:            uinsuskariau
+facebook:           UINSultanSyarifKasimRiau
+instagram:          uinsuska
 github:             vellyca
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
-instagram:          vellycaputri
+#instagram:          uinsuska
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
